@@ -4,11 +4,11 @@
 
 ## Finding the Right TorZon URL and TorZonURL
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion
 
-[<img src="/static/live.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/static/live.webp" width="200">](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/document.webp" alt="TorZon URL" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/static/document.webp" alt="TorZon URL" style="max-width: 100%;"></a>
 
 This platform provides an educational resource on the darknet. No affiliate commissions, no illegal endorsements.
 
@@ -38,11 +38,13 @@ Navigating **TorZon** includes inherent risks. Following these best practices is
 
 Remember that the darknet carries risks. Prioritize security, stay informed, and consistently use the latest **TorZon URLs** to access the market. Following these steps will improve your safety within the **TorZon Market** environment.
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/font.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/fit.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/static/font.webp" alt="TorZon Market Login" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/static/fit.webp" alt="TorZon Market Register" style="max-width: 100%;"></a>
 
 ---
 
 ### Disclaimer:
 
 This guide serves only for educational purposes. The information shared here is for understanding the darknet better. We do not endorse any illegal activities. Always comply with the laws that apply to your location.
+
+Update:  Sunday 14 September 2025 Fixed broken url, now working
