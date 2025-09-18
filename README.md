@@ -47,4 +47,6 @@ Remember that the darknet carries risks. Prioritize security, stay informed, and
 
 This guide serves only for educational purposes. The information shared here is for understanding the darknet better. We do not endorse any illegal activities. Always comply with the laws that apply to your location.
 
-Update:  Sunday 14 September 2025 Fixed broken url, now working
+
+
+Update:  18 September 2025 Link is now online
